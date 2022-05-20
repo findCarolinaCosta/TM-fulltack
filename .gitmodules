@@ -1,0 +1,6 @@
+[submodule "TM-backend"]
+	path = TM-backend
+	url = git@github.com:findCarolinaCosta/TM-backend.git
+[submodule "TM-frontend"]
+	path = TM-frontend
+	url = git@github.com:findCarolinaCosta/TM-frontend.git
